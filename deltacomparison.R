@@ -1,7 +1,7 @@
 ### FishMod delta lognormal and deltaBRT model comparison
 ### JT Froeschke
 ### January 07 2015
-
+### comment 2
 install.packages("fishMod")
 install.packages("bestglm")
 install.packages("pscl")
